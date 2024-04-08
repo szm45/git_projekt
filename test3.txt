@@ -1,1 +1,1 @@
-fngjf
+print('hello world')
