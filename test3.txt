@@ -1,5 +1,4 @@
 print('hello world')
-print('zmiana 2')
 print('hello from development')
 print('zmiana 1')
 stbaeb
